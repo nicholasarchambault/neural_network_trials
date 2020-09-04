@@ -3,7 +3,7 @@ by Nicholas Archambault
 
 Deep neural networks have been used to reach state-of-the-art performance on image classification tasks in the last decade. For some image classification tasks, deep neural networks actually perform as well as or slightly better than the human benchmark.
 
-This project will explore the effectiveness of deep, feedforward neural networks at classifying images of digits.
+This project explores the effectiveness of deep, feedforward neural networks at classifying images of digits.
 
 ## Goals
 1. Create data pipeline to smoothly implement machine learning algorithms and workflow, gradually building up more complex models.
@@ -14,4 +14,4 @@ This project will explore the effectiveness of deep, feedforward neural networks
 	4. Triple layer neural network with three different neuron quantities and six-fold cross-validation
 
 ## Output
-Plots of model accuracy with varying parameters and comparisons of characteristics of the most accurate models.
+Plots of model accuracy with varying parameters. Comparisons of characteristics of the most accurate models. An understanding of what contributes to a neural network model with a higher degree of accuracy.
